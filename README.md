@@ -1,7 +1,7 @@
 # GithubRepoListProject
 It is a simple Github repository listing application.
 
-| <img src="https://user-images.githubusercontent.com/10815175/99261648-0c9aa480-282e-11eb-9f44-b9092351fc06.jpg" width="250"> | <img src="https://user-images.githubusercontent.com/10815175/99261708-21773800-282e-11eb-8ca7-dbe655c491f1.jpg" width="250"> |
+<img src="https://user-images.githubusercontent.com/10815175/99261648-0c9aa480-282e-11eb-9f44-b9092351fc06.jpg" width="250"> | <img src="https://user-images.githubusercontent.com/10815175/99261708-21773800-282e-11eb-8ca7-dbe655c491f1.jpg" width="250"> 
 
 # Description
 Application should have a repo list and a repo detail page.
