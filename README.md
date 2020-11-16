@@ -9,11 +9,11 @@ In the repo list page, user should enter the username and click the submit butto
 user repos. (​ https://api.github.com/users/{user}/repos​ )
 
 # Technologies
-MVVM Architecture
-Retrofit 2
-Extensions -> KTX, Glide
-RxJava 2
-LiveData
-Data Binding
-Room-> SQLite, Coroutine,Threading
-Navigation
+- MVVM Architecture
+- Retrofit 2
+- Extensions -> KTX, Glide
+- RxJava 2
+- LiveData
+- Data Binding
+- Room-> SQLite, Coroutine,Threading
+- Navigation
