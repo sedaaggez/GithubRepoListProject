@@ -21,8 +21,6 @@ class ReposFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        toolbarRepos.title = "Home"
-
         viewModel = ViewModelProvider(this).get(ReposViewModel::class.java)
 
         viewModel.init()
