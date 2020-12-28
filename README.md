@@ -1,3 +1,4 @@
+# Github Repo List Project
 
 It is a simple Github repository listing application.
 
@@ -17,3 +18,7 @@ user repos. (​ https://api.github.com/users/{user}/repos​ )
 - Data Binding
 - Room-> SQLite, Coroutine,Threading
 - Navigation
+
+# License
+
+This project is licensed under the  GNU General Public License v3.0 License - see the [LICENSE](LICENSE) file for details.
